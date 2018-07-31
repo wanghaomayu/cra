@@ -5,7 +5,7 @@ class App extends Component {
     return (
       <div>
         <header>
-          <h1>这是Home啊</h1>
+          <h1>这里是Home页面！</h1>
         </header>
       </div>
     );
