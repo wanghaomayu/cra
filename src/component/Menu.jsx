@@ -7,7 +7,7 @@ class Menu extends Component {
       <div className="App">
         <h1>App</h1>
         <ul>
-          <li><Link to="/about">About</Link></li>
+          <li><Link to="/about">Abouts</Link></li>
           <li><Link to="/features">Features</Link></li>
           <li><Link to="/cycle">Cycles</Link></li>
         </ul>
