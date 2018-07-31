@@ -7,9 +7,6 @@ class App extends Component {
         <header>
           <h1>这是Home啊</h1>
         </header>
-        <p>
-          没啥事，就过来看看你，咋的不服啊？
-        </p>
       </div>
     );
   }

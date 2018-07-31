@@ -9,6 +9,7 @@ class Menu extends Component {
         <ul>
           <li><Link to="/about">About</Link></li>
           <li><Link to="/features">Features</Link></li>
+          <li><Link to="/cycle">Cycles</Link></li>
         </ul>
         {this.props.children}
       </div>
