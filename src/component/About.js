@@ -40,7 +40,7 @@ class About extends Component {
     return (
       <div>
         <h1>About</h1>
-        <p>我是About页面，这回中不？</p>
+        <p>我是About页面，这回中不？你说中就中！</p>
         <p>{this.state.count}</p>
         <input type="button" value="按钮" onClick={this.handleClick.bind(this)}/>
       </div>
